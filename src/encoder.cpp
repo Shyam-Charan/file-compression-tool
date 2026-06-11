@@ -1,1 +1,1 @@
-
+// File encoding implementation
